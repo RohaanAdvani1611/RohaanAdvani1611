@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**RohaanAdvani1611/RohaanAdvani1611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Rohaan Advani
 
-Here are some ideas to get you started:
+**Software Engineer | Computer Vision, Machine Learning & C++ Systems**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build software at the intersection of **computer vision, real-time perception, machine learning, and graphics**. I’m particularly interested in systems that connect intelligent algorithms with real-world hardware and deliver efficient, low-latency performance.
+
+Currently, I work on mixed-reality and vision-based applications, developing software across perception, rendering, and image-processing pipelines.
+
+### Areas of focus
+
+- **Computer Vision:** Object detection, image processing, camera geometry, visual perception
+- **Machine Learning:** Deep learning, model inference, model optimization
+- **Systems & Graphics:** Modern C++, OpenGL, GLSL, GPU rendering, real-time systems
+- **Deployment:** ONNX Runtime, OpenCV, CMake, Linux, macOS
+
+### Selected projects
+
+**[PerceptionOcclusion](https://github.com/RohaanAdvani1611/PerceptionOcclusion)**  
+C++ project exploring depth-based perception and occlusion, with an emphasis on real-time processing and graphics integration.
+
+**[Subzero-Signals](https://github.com/RohaanAdvani1611/Subzero-Signals)**  
+Data analytics project exploring data processing and analysis using Python and Jupyter Notebooks.
+
+### Technical toolkit
+
+`C++` · `Python` · `C` · `SQL` · `OpenCV` · `ONNX Runtime` · `PyTorch` · `TensorFlow` · `YOLO` · `OpenGL` · `GLSL` · `Metal` · `CMake` · `Git`
+
+### Education
+
+- **New York University** — M.S. in Computer Science
+- **College of Engineering, Pune** — B.Tech. in Computer Engineering, Honors in Data Science
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/rohaanadvani/) · [GitHub](https://github.com/RohaanAdvani1611)
