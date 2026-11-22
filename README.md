@@ -62,33 +62,93 @@ Currently, I work on **mixed-reality and vision-based applications**, building s
 
 ## 🛠️ Tech stack
 
-**Languages**
-<br>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Computer vision</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white" alt="MediaPipe">
+      <img src="https://img.shields.io/badge/ONNX%20Runtime-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX Runtime">
+      <img src="https://img.shields.io/badge/scikit--image-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-image">
+      <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square" alt="YOLO">
+      <img src="https://img.shields.io/badge/Tesseract%20OCR-3A3A3A?style=flat-square" alt="Tesseract OCR">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Machine learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras">
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+      <img src="https://img.shields.io/badge/PyCaret-00A3E0?style=flat-square" alt="PyCaret">
+      <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square" alt="NLTK">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data & big data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark">
+      <img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white" alt="Polars">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy">
+      <img src="https://img.shields.io/badge/Dask-FC6E6B?style=flat-square&logo=dask&logoColor=white" alt="Dask">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Visualization & geospatial</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib">
+      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn">
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
+      <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square" alt="GeoPandas">
+      <img src="https://img.shields.io/badge/Folium-77B829?style=flat-square" alt="Folium">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases & search</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" alt="FAISS">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Graphics & XR</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="OpenGL">
+      <img src="https://img.shields.io/badge/GLSL-5586A4?style=flat-square" alt="GLSL">
+      <img src="https://img.shields.io/badge/Metal-555555?style=flat-square&logo=apple&logoColor=white" alt="Metal">
+      <img src="https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white" alt="Unity">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools & platforms</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+      <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" alt="Google Colab">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+      <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS">
+    </td>
+  </tr>
+</table>
 
-**Computer vision & ML**
-<br>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-<img src="https://img.shields.io/badge/ONNX%20Runtime-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX Runtime">
-<img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square" alt="YOLO">
-
-**Graphics & real-time systems**
-<br>
-<img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="OpenGL">
-<img src="https://img.shields.io/badge/GLSL-5586A4?style=flat-square" alt="GLSL">
-<img src="https://img.shields.io/badge/Metal-555555?style=flat-square&logo=apple&logoColor=white" alt="Metal">
-
-**Tooling & platforms**
-<br>
-<img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS">
+<sub>Also: socket programming and multithreading (BitTorrent client, TCP chat), OS internals (xv6), spatial data structures (quadtrees, octrees).</sub>
 
 ## 🎓 Education
 
