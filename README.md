@@ -1,14 +1,13 @@
 <h1 align="center">Hi, I'm Rohaan Advani 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/RohaanAdvani1611">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Software+Engineer;Computer+Vision+%C2%B7+Machine+Learning+%C2%B7+C%2B%2B+Systems;Real-time+perception+%E2%86%92+rendering+pipelines" alt="Software Engineer · Computer Vision · Machine Learning · C++ Systems">
-  </a>
+  <b>Software Engineer · Computer Vision · Machine Learning · C++ Systems</b>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohaan-advani-10b491201/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/NYU-M.S.%20Computer%20Science-57068C?style=for-the-badge" alt="NYU M.S. Computer Science">
+  <a href="https://www.linkedin.com/in/rohaan-advani-10b491201/">LinkedIn</a> ·
+  <a href="#-featured-projects">Projects</a> ·
+  <a href="#-tech-stack">Tech stack</a>
 </p>
 
 I build software at the intersection of **computer vision, real-time perception, machine learning and graphics**. I'm most interested in systems that connect intelligent algorithms to real-world hardware and run efficiently with low latency.
