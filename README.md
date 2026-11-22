@@ -33,4 +33,4 @@ Data analytics project exploring data processing and analysis using Python and J
 
 ### Connect
 
-[LinkedIn](www.linkedin.com/in/rohaan-advani-10b491201) · [GitHub](https://github.com/RohaanAdvani1611)
+[LinkedIn](https://www.linkedin.com/in/rohaan-advani-10b491201/) · [GitHub](https://github.com/RohaanAdvani1611)
