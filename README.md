@@ -28,9 +28,9 @@ Data analytics project exploring data processing and analysis using Python and J
 
 ### Education
 
-- **New York University** — M.S. in Computer Science
-- **College of Engineering, Pune** — B.Tech. in Computer Engineering, Honors in Data Science
+- **New York University** - M.S. in Computer Science
+- **College of Engineering, Pune** - B.Tech. in Computer Engineering, Honors in Data Science
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/rohaanadvani/) · [GitHub](https://github.com/RohaanAdvani1611)
+[LinkedIn](www.linkedin.com/in/rohaan-advani-10b491201) · [GitHub](https://github.com/RohaanAdvani1611)
